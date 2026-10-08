@@ -4,17 +4,7 @@
 # MAGIC
 # MAGIC ---
 # MAGIC
-# MAGIC _author_: **Maksim Pachkouski** - [Databricks MVP | Senior Data Engineer]
-# MAGIC - [file source](https://github.com/protmaks/Databricks/blob/main/API%20%26%20SDK/Monitoring/API%20monitoring%20of%20All-purpose%20clusters.py)
-# MAGIC - [description](https://medium.com/@protmaks/databricks-cost-optimization-api-monitoring-of-all-purpose-clusters-b7ad7ddd4702)
-# MAGIC
-# MAGIC ---
-# MAGIC
-# MAGIC [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@protmaks) &nbsp;
-# MAGIC [![LinkedIn](https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/protmaks) &nbsp;
-# MAGIC [![GitHub](https://img.shields.io/github/followers/protmaks?label=Follow&style=social)](https://github.com/protmaks) &nbsp;
-# MAGIC
-
+# MAGIC _author_: **soniya  kambli** - [Data Engineer]
 # COMMAND ----------
 
 # DBTITLE 1,imports
