@@ -4,15 +4,8 @@
 # MAGIC
 # MAGIC ---
 # MAGIC
-# MAGIC _author_: **Maksim Pachkouski** - [Databricks MVP | Senior Data Engineer]
-# MAGIC - [file source](https://github.com/protmaks/Databricks/blob/main/API%20%26%20SDK/Monitoring/API%20Monitoring%20of%20all%20scheduled%20jobs.py)
-# MAGIC - [description](https://medium.com/@protmaks/api-monitoring-of-scheduled-jobs-33a221d9f891)
+# MAGIC _author_: **soniya kambli** - [Data Engineer]
 # MAGIC
-# MAGIC ---
-# MAGIC
-# MAGIC [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@protmaks) &nbsp;
-# MAGIC [![LinkedIn](https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/protmaks) &nbsp;
-# MAGIC [![GitHub](https://img.shields.io/github/followers/protmaks?label=Follow&style=social)](https://github.com/protmaks) &nbsp;
 
 # COMMAND ----------
 
